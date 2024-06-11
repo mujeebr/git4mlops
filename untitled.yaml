@@ -1,0 +1,27 @@
+# Hey this is a yaml file
+my-course: "Aws devops course"
+version: 1.0
+price:299
+is_public:true
+release_date: 2024-06-11
+pre_enroll: null
+category:
+ - Aws
+ - Devops
+ - Aws Certification
+
+course_dev: ["Mujeeb","Surya"]
+dev_details:
+ - name: "mujeeb"
+   email: "mujeebr469"
+   role: "author"
+ - {"name":"surya","email":"survya@gmail.com", role:"lead"}
+
+short_description: >
+ This is a certification
+ course for ds
+
+detailed_descripton: |
+ This is a very good
+ course you must enroll
+ in
